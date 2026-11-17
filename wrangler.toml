@@ -5,4 +5,4 @@ pages_build_output_dir = "./public"
 [[d1_databases]]
 binding = "DB"
 database_name = "wangzhe-war-room"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+database_id = "e8390c28-487e-4de7-9ff6-738946bfe3ec"
